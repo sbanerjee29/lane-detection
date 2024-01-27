@@ -25,10 +25,10 @@ Example:
 
 Install the required models.
 
-##Usage 
+## Usage 
 Run the lane,py file 
 
-##Result
+## Result
 - <img width="599" alt="Screenshot 2024-01-24 at 10 06 44 AM" src="https://github.com/sbanerjee29/lane-detection/assets/104590401/a97b6ef9-5814-4be1-b407-1c8df2ad0ab9">
 
 
